@@ -56,7 +56,8 @@ Microsoft reserves the right to refuse admittance to or remove any person from 
 
 - The session, session code COMP164 is recorded
 - How to engage with us? 
-    - Insert instructions here with images 
+    - ![screenshot-how-to-ask-question-in-teams-live](https://user-images.githubusercontent.com/5739370/82470161-fc7a5600-9a92-11ea-80a5-35dc7b33c0c4.png) [documentation](https://support.microsoft.com/en-us/office/participate-in-a-q-a-in-a-live-event-in-teams-01d57b8c-23b9-4cff-adc0-4e57618b59b4?ui=en-us&rs=en-us&ad=us)
+
     
 ### Lightning Talks 
 #### Applying AI to save lives | Anthony Bartolo 
