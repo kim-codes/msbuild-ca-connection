@@ -5,7 +5,7 @@
 
 Joined late? Following up after the session? Find everything you need from our session at Build here. 
 
-Find resources pertaining to the Microsoft Build 2020 Canadian Developer Community Connection Session.
+This repo will have all  resources from the Microsoft Build 2020 Canadian Developer Community Connection Session.
 
 ## Quick Links 
 - [Code of Conduct](#code-of-conduct)
@@ -15,6 +15,12 @@ Find resources pertaining to the Microsoft Build 2020 Canadian Developer Communi
 - [Lightning Talks](#lightning-talks)
 - [Tech for Good](#tech-for-good)
 - [Developer Learning & Resources](#developer-learning-and-resources)
+    - [Cloud Skills Challenge Toolkit ](#cloud-skills-challenge-toolkit)
+    - [Microsoft.Source newsletter](#microsoftsource-newsletter)
+    - [Azure Tech Communities](#azure-tech-communities)
+    - [Surface](#surface)
+    - [Mixed Reality Dev Days](#mixed-reality-dev-days)
+    - [Data & AI Academy](#data-ai-academy)
 - [Thank yous and Goodbyes!](#thank-yous-and-goodbyes)
 
 ### Code of Conduct
@@ -31,20 +37,20 @@ Microsoft reserves the right to refuse admittance to or remove any person from 
 
 ### Agenda
 
-- Welcome | Bienvenue  
-- Lightning Talks | Présentations éclaires  
-- Tech for Good | Technologie pour de bon
-- Dev learning & resources | L’ apprentissage et des ressources pour devs
-- Thank Yous | Merci
+- [Welcome](#meet-the-people)  
+- [Lightning Talks](#Lightning-talks) 
+- [Tech for Good](#tech-for-good)
+- [Developer Learning & Resources](#developer-learning-and-resources)
+- [Thank yous and Goodbyes!](#thank-yous-and-goodbyes)
 
 ### Meet the people
 
 - Anthony Bartolo *Senior Cloud Advocate @ Microsoft* **speaker** | 
-- Frank Boucher *Senior Cloud Advocate @ Microsoft*  **speaker** | 
+- Frank Boucher *Cloud Advocate @ Microsoft*  **speaker** | 
 - Richard Campbell *Microsoft MVP* **speaker** | 
 - Karen McCall *Microsoft MVP* **speaker** | 
-- Kim Noel **Host* | 
-- Adarsha Datta **Host** | 
+- Kim Noel *Microsoft Developer Engagement Lead* **Host** | 
+- Adarsha Datta *Microsoft Developer Engagement Lead* **Host** | 
 
 ### FYI
 
@@ -72,15 +78,34 @@ This session will explore the need for inclusive design of apps, programs and mu
 
 ### Developer Learning and Resources 
 
-- Microsoft Docs
-- Microsoft Learn 
-- Cloud Skills Challenge
-- Microsoft.Source newsletter 
-- Azure Tech Communities 
-- Surface Book 3 
+#### Cloud Skills Challenge Toolkit 
+
+Learn. Compete. Win with a customized technical upskilling challenge toolkit for your organization. 
+Find out more at: [aka.ms/csctoolkit](https://aka.ms/csctoolkit)
+
+#### Microsoft.Source newsletter 
+
+The curated monthly developer community newsletter. Learn about new technologies and find opportunities to connect with other developers online and locally. Join at [aka.ms/jointhesource](https://aka.ms/jointhesource)
+
+#### Azure Tech Communities 
+Community-led Meetups where you’ll learn from your peers about solutions to common problems, fun projects, and what’s new in Microsoft Azure! Find a group near you
+
+Want your group to be part of the Azure Tech Community network? Send us an email at devca@microsoft.com 
+
+#### Surface 
+Take advante og a special Canadian Developer Community Connection Surface discount! [Enjoy your exclusive discount on Surface products](https://ms.liftforward.com/en-ca/build-event-ca) **only available to Canadians**
+
+#### Mixed Reality Dev Days 
+May 20-21 digital experience in AltSpaceVR! 
+
+Get ready for a new event format, tailored to a **completely digital experience in 2D and 3D with AltspaceVR**. Hear from Microsoft leaders, learn from experts, and connect with the mixed reality developer community. Register for the digital experience today, at no cost to you!
+
+#### Data AI Academy
+Request your free Certification Vouchers today and explore the free online learning sessions & resources at [aka.ms/DataAIAcademy
+](https://aka.ms/DataAIAcademy)
 
 ### Thank yous and Goodbyes! 
 
 How to get in touch with us? 
 
-
+Question? Reach out to devca@microsoft.com 
