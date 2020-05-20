@@ -50,8 +50,8 @@ Microsoft se réserve le droit de refuser l’admission ou de retirer toute pers
 
 ### PVI
 - Le code de session est COM164 et la session est enregistrée
-- Comment s’engager: 
-    - Insert instructions here with images 
+- Comment s’engager:
+    - ![ask-q-fr](https://user-images.githubusercontent.com/5739370/82470427-524efe00-9a93-11ea-9bed-75346b415071.png) [documentation](https://support.microsoft.com/fr-fr/office/participez-aux-q-r-d-un-%c3%a9v%c3%a9nement-en-direct-dans-teams-01d57b8c-23b9-4cff-adc0-4e57618b59b4?ui=fr-fr&rs=fr-fr&ad=fr)
     
 ### Présentations éclaires 
 #### Applying AI to save lives | Anthony Bartolo 
