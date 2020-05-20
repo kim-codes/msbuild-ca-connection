@@ -1,7 +1,7 @@
 # Microsoft Build 2020 
 ## Canadian Develoepr Community Connection :maple_leaf:
 
-[Français version s’il vous plaît cliquez ici | French version please click here](placeholder)
+[Cherchez-vous la version français? D’il vous plaît cliquez ici | Looking for the French version? {lease click here](README-FRENCH.md)
 
 Joined late? Following up after the session? Find everything you need from our session at Build here. 
 
