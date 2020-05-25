@@ -13,6 +13,7 @@ This repo will have all  resources from the Microsoft Build 2020 Canadian Develo
 - [Meet the people](#meet-the-people)
 - [For your information](#fyi)
 - [Lightning Talks](#lightning-talks)
+- [Suprise Guest](#surprise-guest)
 - [Tech for Good](#tech-for-good)
 - [Developer Learning & Resources](#developer-learning-and-resources)
     - [Cloud Skills Challenge Toolkit ](#cloud-skills-challenge-toolkit)
@@ -67,6 +68,16 @@ How a team at Microsoft Made Drones Self-Aware | a Walkthrough of Computer Visio
 #### How to stay productive when working remotely | Frank Boucher 
 
 Tons of tips and tricks to stay productive, not forget your deadline, stay motivated, and still, have a life as a remote worker.
+
+### Surprise Guest 
+
+Brendan Burns joined us during the session to say hi and answer any question. 
+
+He said updates about Azure Arc-enabled Kubernetes clusters now in public preview:
+
+ > Microsoft is delivering the public preview of Azure Arc-enabled Kubernetes that lets customers inventory, organize, manage and govern their Kubernetes clusters at scale from Azure, including Open Shift, across their datacenters, multicloud and Azure Stack Hub.  Visit the [Azure Blog](https://azure.microsoft.com/en-us/blog/code-collaborate-and-ship-your-apps-from-anywhere/) to learn more. 
+
+And recommended [Effective DevOps](https://www.oreilly.com/library/view/effective-devops/9781491926291/) by Jennifer David and Ryn Daniels 
 
 ### Tech for Good 
 #### Humanitarian Toolbox: Building Open Source Software to Help During a Crisis | Richard Campbell 
